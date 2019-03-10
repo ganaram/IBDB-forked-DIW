@@ -1,0 +1,26 @@
+.title,
+.subTitle {
+  color: #edfd07;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.subTitle {
+  color: #bbc716;
+}
+
+.invalidInput {
+  border-color: #c53030;
+}
+
+.validInput {
+  border-color: #9cf8a0;
+}
+
+.generalInput {
+  border-color: #d1ab0317;
+}
+
+.generalInput:hover {
+  border-color: #ffd000;
+}
+

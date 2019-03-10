@@ -1,0 +1,27 @@
+@import 'vars';
+
+
+.title{
+    color: $titleColor;
+    font-family: $font;
+}
+.subTitle{
+    @extend .title;
+    color:$subtitleColor;
+}
+
+.invalidInput{
+    border-color: $invalidInput;
+}
+
+.validInput{
+    border-color: $validInput;
+}
+
+.generalInput{
+    border-color:$inputColor;
+}
+
+.generalInput:hover{
+    border-color:$inputColorSobre;
+}

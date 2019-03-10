@@ -1,0 +1,20 @@
+.title {
+  color: #edfd07;
+}
+
+.invalidInput {
+  border-color: #c53030;
+}
+
+.validInput {
+  border-color: #9cf8a0;
+}
+
+.generalInput {
+  border-color: #d1ab0317;
+}
+
+.generalInput:hover {
+  border-color: #ffd000;
+}
+
